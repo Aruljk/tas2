@@ -1,0 +1,41 @@
+.container{
+	width:100%;
+	
+}
+.features{
+	width:100%;
+	
+}
+.img-let{
+	display:flex;
+
+	
+}
+.imag{
+	width:45%;
+	height:500px;
+	margin-top:45px;
+	
+}
+.leter{
+	width:55%;
+	height:500px;
+	margin-bottom:30px;
+	
+}
+.parae{
+	display:flex;
+}
+.par{
+display:flex;	
+}
+.ico-he{
+	display:flex;
+}
+.font{
+	color:orange;
+	margin-right:10px;
+	font-size:30px;
+	margin-top:10px;
+}
+
