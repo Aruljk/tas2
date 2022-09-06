@@ -1,0 +1,56 @@
+.container{
+	height:400px;
+	width:100%;
+	
+	
+}
+.testimonials{
+	width:100%;
+}
+.test{
+margin-left:500px;
+color:blue;
+}
+.what{
+margin-left:400px;
+color:blue;
+font-size:30px;
+}
+.part1{
+width:33.33%;
+height:400px;
+margin-right:70px;
+box-shadow:0 0 10px #999 ;
+}
+.let{
+	margin-left:20px;
+}
+.ico{
+	color:yellow;
+	margin-left:130px;
+	margin-top:20px;
+	
+}
+		
+.jk{
+
+	border-radius:50px;
+	margin-left:120px;
+
+}
+.top{
+margin-left: 140px;
+}
+.top1{
+margin-left: 140px;
+}
+.post{
+	display:flex;
+	
+}
+	
+	
+	
+
+
+
