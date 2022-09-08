@@ -1,0 +1,63 @@
+.container{
+	width:100%;
+	height:auto;
+	
+}
+.all{
+	display:flex;
+	
+}
+.part1{
+	width:20%;
+}
+
+
+.icon {
+	display:flex;
+}
+.icon a{
+	box-sizing:border-box;
+	background-color:blue;
+	height:30px;
+	width:30px;
+	margin-right:10px;
+	line-height:30px;
+	text-align:center;
+	text-decoration:none;
+	color:white;
+}
+.part2{
+	width:20%;
+}
+.part3{
+	width:40%;
+}
+.box{
+	display:flex;
+}
+.but{
+	background-color:blue;
+	color:white;
+	border:none;
+	height:35px;
+	width:150px;
+
+	
+}
+.text{
+	height:30px;
+	width:300px;
+}
+.last1{
+	text-align:center;
+	padding-top:10px;
+	margin-top:40px;
+	
+}
+.last{
+	background-color:#939fa31c;
+	height:100px;
+}
+.co{
+	color:blue;
+}
