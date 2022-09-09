@@ -1,0 +1,110 @@
+.container{
+	width:100%;
+	height:auto;
+	
+}
+.first{
+	text-align:center;
+}
+.bute{
+	color:blue;
+	background-color:#dadae5;
+	border:none;
+	border-radius:5px;
+}
+.contact-box{
+	display:flex;
+}
+.box1{
+	width:40%;
+box-shadow:0 0 10px#999;
+	margin:10px;
+	
+}
+.box2{
+	width:30%;
+	box-shadow:0 0 10px#999;
+	margin:10px;
+}
+.box3{
+	width:30%;
+	
+	margin:10px;
+	box-shadow:0 0 10px#999;
+}
+
+
+.ico-box {
+    color: #428BCA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  font-size: 25px;
+  background-color: white;
+  border-radius:100%;
+  border: 2px dotted #428BCA;
+  text-align: center;
+  margin: 0 auto;
+  height: 30px;
+  width: 30px;
+  margin-top:20px;
+    
+}
+
+.ico1{
+text-align:center;
+}	
+
+.icop{
+text-align:center;		
+}
+.imgg{
+	display:flex;
+}
+.image{
+	width:50%;
+	margin-top:10px;
+}
+
+.user-forms{
+		box-shadow:0 0 10px#999;
+		height:360px;
+		margin-top:15px;
+		
+		
+}
+.forma{
+	height:30px;
+	width:270px;
+	margin:15px;
+	padding-left:20px;
+}
+.forme{
+height:30px;
+	width:610px;
+margin-top:10px;
+margin:15px;
+padding-left:20px;	
+}
+.form-in{
+height:80px;
+	width:610px;
+margin-top:20px;
+margin:15px;
+padding-left:20px;	
+}
+.form4{
+	text-align:center;
+	margin-top:10px;
+	margin:15px;
+	
+}
+.but{
+	line-height:30px;
+	background-color:blue;
+	border:none;
+	color:white;
+	
+}
+
+
