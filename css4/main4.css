@@ -1,0 +1,81 @@
+*{
+	margin:0;
+	padding:0;
+	
+}
+.container{
+	width:90%;
+	margin:auto;
+}
+
+.navigation{
+	display:flex;
+	justify-content:space-between;
+
+}
+.logo{
+	margin-top:15px;
+	color:green;
+}
+.men{
+	color:green;
+	
+}
+
+.nav{
+	display:flex;
+	list-style-type:none;
+	margin-top:20px;
+	
+}
+.lis{
+	margin-left:20px;
+	color:green;
+}
+.li{
+	margin-left:20px;
+}
+.get{
+	margin-left:20px;
+	height:25px;
+	width:100px;
+	margin-bottom:10px;
+	border-radius:10px;
+	background-color:green;
+	border:none;
+	color:white;
+
+}
+.image{
+position:relative;
+	
+}
+.pic{
+	height:500px;
+	background-image:url(../css4/hero-bg.jpg);
+	background-size:cover;
+	
+}
+
+.words{
+	position: absolute;
+	top:40%;
+	color:white;
+	left:7%;
+}
+.wei{
+	font-size:40px;
+}
+.pse{
+	font-size:24px;
+	margin-top:10px;
+
+}
+.but1{
+	border:solid 2px white;
+	height:30px;
+	border-radius:10px;
+margin-top:20px;
+background-color:white;
+width:150px;
+}
