@@ -1,0 +1,101 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+.container{
+	width:100%;
+	background-color:#dae5e9;
+	
+}
+.ser{
+	margin-bottom:20px;
+	font-size:30px;
+	color:#4b4ba4;
+}
+.head{
+	text-align:center;
+}
+.boxes{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:30px;
+}
+.box{
+	text-align:center;
+	width:30%;
+	box-shadow:0 0 10px#999;
+	height:250px;
+	margin-right:20px;
+	margin-top:20px;
+	background-color:white;
+}
+.para1{
+padding:10px;
+}
+.para{
+padding:10px;	
+}
+.part{
+padding:10px;	
+}
+.ico1{
+	padding-top:20px;
+	color:blue;
+	font-size:30px;
+	
+}
+.ico2{
+	padding-top:20px;
+	color:red;
+	font-size:30px;
+	
+}
+.ico3{
+	padding-top:20px;
+	color:brown;
+	font-size:30px;
+	
+}
+.ico4{
+	padding-top:20px;
+	color:orange;
+	font-size:30px;
+	
+}
+.ico5{
+	padding-top:20px;
+	color:red;
+	font-size:30px;
+	
+}
+.ico6{
+	padding-top:20px;
+	color:skyblue;
+	font-size:30px;
+	
+}
+.footer{
+	height:300px;
+	text-align:center;
+	padding-top:90px;
+	color:white;
+	background-color:#7777eb;
+	margin-top:50px;
+	
+}
+.but{
+	
+	margin-top:20px;
+	height:50px;
+	width:180px;
+	background-color:#7777eb;
+	color:white;
+	border:solid 2px white;
+	border-radius:4px;
+	
+}
+.one{
+	margin-top:10px;
+}
